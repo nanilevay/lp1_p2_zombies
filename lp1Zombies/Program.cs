@@ -6,7 +6,7 @@ namespace lp1Zombies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // call the gameLoop to run program
         }
     }
 }
